@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-travel-journal/static/css/main.79bd8e7b.css",
+    "main.js": "/my-travel-journal/static/js/main.d645f77f.js",
+    "static/media/sand_dunes.jpeg": "/my-travel-journal/static/media/sand_dunes.dd84e71ee0145c706a6b.jpeg",
+    "static/media/world.png": "/my-travel-journal/static/media/world.d14719891d59b6248722.png",
+    "static/media/location_pin.png": "/my-travel-journal/static/media/location_pin.eea44d515aa406ea22fc.png",
+    "index.html": "/my-travel-journal/index.html",
+    "main.79bd8e7b.css.map": "/my-travel-journal/static/css/main.79bd8e7b.css.map",
+    "main.d645f77f.js.map": "/my-travel-journal/static/js/main.d645f77f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79bd8e7b.css",
+    "static/js/main.d645f77f.js"
+  ]
+}
